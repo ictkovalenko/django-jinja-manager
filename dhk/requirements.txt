@@ -4,7 +4,7 @@ certifi==2018.8.24
 cffi==1.11.5
 chardet==3.0.4
 cryptography==2.3.1
-Django==1.11.16
+Django==1.11.29
 django-allauth==0.38.0
 django-anymail==4.3
 django-debug-toolbar==1.10.1
