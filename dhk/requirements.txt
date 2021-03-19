@@ -10,7 +10,7 @@ django-anymail==4.3
 django-debug-toolbar==1.10.1
 django-filter==2.0.0
 django-pipeline==1.6.14
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 enum34==1.1.6
 Fabric==1.14.0
 futures==3.2.0
